@@ -1,0 +1,10 @@
+{
+  "bob": {
+    "publicKey": "",
+    "secret": ""
+  },
+  "alice": {
+    "publicKey": "",
+    "secret": ""
+  }
+}
